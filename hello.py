@@ -1,4 +1,4 @@
-nama = "Mujiburrahman"
-npm = 2606859830
+nama = input("Nama: ")
+npm = int(input("NPM: "))
 print(nama)
 print(npm)
